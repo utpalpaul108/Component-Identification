@@ -50,9 +50,9 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-Finally, run the following command to start your application.
+Finally, run the following command to start your application (For Default Camera)
 ```bash
-python app.py # For default camera
+python app.py 
 ```
 If it's don't work, try with different camera id.
 ```bash
