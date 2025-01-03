@@ -18,7 +18,7 @@ Here, I have used different images of the device.
 <div style="padding-bottom:10px"><b>STEP 00 :</b> Clone the repository</div>
 
 ```bash
-git clone git@github.com:utpalpaul108/Component-Identification.git
+git clone https://github.com/utpalpaul108/Component-Identification
 ```
 <div style="padding-top:10px"><b>STEP 01 :</b> Create a virtual environment after opening the repository and then activate the environment</div><br>
 
