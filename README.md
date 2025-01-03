@@ -63,7 +63,8 @@ python app.py --camera-id 1  # [0, 1, 2, 3,...]
 
 press `q` to stop the application.
 
-<div style="padding-top:10px"><b>STEP 04 :</b> Your application is now successfully set up. The next time you want to run the application, activate the virtual environment and execute the program.</div><br>
+<div style="padding-top:10px"><b>STEP 04 :</b> Rerun the application</div>
+<p>Your application is now successfully set up. The next time you want to run the application, activate the virtual environment and execute the program.</p>
 
 For Windows operating system (Using Command Prompt)
 ```bash
