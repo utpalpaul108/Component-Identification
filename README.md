@@ -56,7 +56,7 @@ python app.py
 ```
 If it's don't work, try with different camera id.
 ```bash
-python app.py --camera-id 1  # [0, 1, 2, 3,...]
+python app.py --camera_id 1  # [0, 1, 2, 3,...]
 ```
 
 <div style="padding-top:10px"><b>STEP 03 :</b> Stop the application</div>
