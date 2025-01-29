@@ -29,9 +29,14 @@ https://github.com/utpalpaul108/Component-Identification/RaspberryPi
 
 ```bash
 cd Component-Identification
+```
+```bash
 python3.10 -m venv venv # replace with your python version
+```
+```bash
 source venv/bin/activate
 ```
+
 
 <div style="padding-top:10px; padding-bottom:10px"><b>STEP 02 :</b> Install the requirements</div>
 
