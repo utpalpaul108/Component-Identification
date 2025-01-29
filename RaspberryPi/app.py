@@ -8,7 +8,7 @@ import argparse
 def predict(camera_id=0):
 
     # Load the model 
-    model = YOLO("ncnn_model", task='segment')
+    model = YOLO("model_ncnn_model", task='segment')
 
     # Open video stream
     cap = cv2.VideoCapture(camera_id)
