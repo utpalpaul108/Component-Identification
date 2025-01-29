@@ -53,7 +53,7 @@ pip install -r requirements.txt
 pip install ultralytics[export]
 ```
 
-Finally, run the following command to start your application (For Default Camera)
+Finally, run the following command to start your application (For Webcam)
 ```bash
 python app.py 
 ```
